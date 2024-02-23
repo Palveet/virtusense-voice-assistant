@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-We hope you find this README helpful in setting up and interacting with the VirtuSense Voice Assistant. If you have any further questions or feedback, please feel free to open an issue in the project repository.
+I hope you find this README helpful in setting up and interacting with the VirtuSense Voice Assistant. If you have any further questions or feedback, please feel free to open an issue in the project repository.
