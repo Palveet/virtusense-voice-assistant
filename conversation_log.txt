@@ -1,0 +1,12 @@
+User: hi
+
+Assitant: Hi, here is a question for you, please respond in yes or no: Do you believe in the potential of virtual reality to replace real-life experiences?
+
+User: yes
+
+Assistant: You responded with yes. Thank you for your response. To reactivate the conversation say 'hi' again or 'bye' to exit
+
+User: bye
+
+Assistant: Goodbye! You can activate the conversation again by clicking the button.
+
