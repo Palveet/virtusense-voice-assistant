@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #121212;
+    color: #ffffff
+}
+
+#conversation {
+    width: 80%;
+    height: 300px;
+    margin: 20px auto;
+    border: 1px solid #2C2C2C;
+    overflow-y: scroll;
+    background-color: #1E1E1E;
+    padding: 25px;
+}
+
+.user-message {
+    background-color: #2C2C2C;
+    color: white;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 5px;
+    text-align: right;
+    float: right;
+    clear: both;
+}
+
+.assistant-message {
+    background-color: white;
+    color: #121212;
+    padding: 10px;
+    margin: 20px 0;
+    border-radius: 5px;
+    width: 50%;
+    text-align: left;
+    float: left;
+    clear: both;
+}
+
+#activateBtn {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    color: #FFFFFF;
+    background-size: cover;
+    background-image: url('/static/microphone.webp');
+    border-color: #2C2C2C;
+    border-width: 8px;
+}
